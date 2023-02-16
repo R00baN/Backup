@@ -1,0 +1,4 @@
+how to check cpu info 
+    cat /proc/cpuinfo | less
+    arch
+
